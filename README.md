@@ -1,2 +1,3 @@
 # Slither
-fail game
+Sliter io prototype
+
