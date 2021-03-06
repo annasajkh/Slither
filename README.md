@@ -1,3 +1,3 @@
 # Slither
-Sliter io prototype
+Sliter io prototype.
 
